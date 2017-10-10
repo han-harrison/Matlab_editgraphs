@@ -7,3 +7,5 @@ This was developed to make graphs for my thesis and new features will be added a
 The graphs are saved as .png and .pdf (and .fig if necessary) and uses the absolutely fantastic piece of code developed by altmany which can be found here https://github.com/altmany/export_fig which you will need to get the best out of this project.
 
 One graph (1_saw_mu) is currently added to this project in all three file formats (.fig, .png and .pdf) so gives an idea of how this code formats graphs . Example code will be added shortly.
+
+Script_allgraphs.m runs Edit_graphs.m on every .fig saved in the current directory.
