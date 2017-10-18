@@ -25,10 +25,10 @@ function  [  ] = Edit_graphs(fig_name, save_option, title_var, is_open, is_open_
 
     %%Variables needed (load fontsizes, fonts, offset values etc.)
     titleFont=50;
-    axisFont=32;
-    generalFont = 26;
+    axisFont=30;
+    generalFont = 24;
     
-    MyFont = 'Times New Roman';
+    MyFont = 'Arial';
     MyFontStyle = 'Italic'; %If you don't like italics then set to 'normal' instead
     offsetx = 0.01;
     offsety = 0.01; %for padding axis labels
